@@ -61,7 +61,7 @@ starts server at port 8000
 - Manage courses: Add, edit and delete courses
 - Manage students: Add and delete students
 
-##Student
+## Student
 - Manage classes: Add, edit and delete classes
 - Manage Work Schedule
 - Upload Homework
