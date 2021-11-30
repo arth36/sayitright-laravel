@@ -5,10 +5,10 @@ SayitRight - A website which would help an unknown individual articulating names
 ## Features
 
 - Create and maintain a personal profile. Record the sound of their name as it   is pronounced in their homeland and post it in multimedia format (Audio).
-• Create and manage blogs.
-• Interact and browse through the blogs that other users create.
-• Track school/work schedule.
-• View and register to available courses
+- Create and manage blogs.
+- Interact and browse through the blogs that other users create.
+- Track school/work schedule.
+- View and register to available courses
 
 ## Instructions to run
 
@@ -17,10 +17,13 @@ SayitRight - A website which would help an unknown individual articulating names
 ```
 npm i
 ```
+- This will install all the dependencies that are required.
 
 ```
 npm start
 ```
+- This will start the react server.
+
 ### Laravel instructions:
 
 While in the same directory as the project:
@@ -28,6 +31,8 @@ While in the same directory as the project:
 ```
 php artisan serve
 ```
+- This will start the laravel server.
+
 starts server at port 8000
 
 ## Roles
